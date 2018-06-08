@@ -9,7 +9,7 @@
       "urls": [
         "/pwatest/cavia/favicon.ico",
         "/pwatest/cavia/index.html",
-        "/pwatest/cavia/main.b3f9a6d2b8413f1c60b5.js",
+        "/pwatest/cavia/main.6b565283692c391d8148.js",
         "/pwatest/cavia/polyfills.2f4a59095805af02bd79.js",
         "/pwatest/cavia/runtime.a66f828dca56eeb90e02.js",
         "/pwatest/cavia/styles.7f440a9c254bd8c680ec.css"
@@ -44,8 +44,8 @@
     "/pwatest/cavia/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/pwatest/cavia/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/pwatest/cavia/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pwatest/cavia/index.html": "324abde9a79738ff6323a6b072672f31459e3fd1",
-    "/pwatest/cavia/main.b3f9a6d2b8413f1c60b5.js": "544ae3ffb406626e239a140869a0395a5d1aae3a",
+    "/pwatest/cavia/index.html": "640c5ea2e81c26d5aa6cada8de0050ef0abd996d",
+    "/pwatest/cavia/main.6b565283692c391d8148.js": "164f23729c1f67f65fe21ae5e45fafe72c296107",
     "/pwatest/cavia/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
     "/pwatest/cavia/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/pwatest/cavia/styles.7f440a9c254bd8c680ec.css": "5267cccb2f6b7e130a62cf29b1f62f289e99853e"
